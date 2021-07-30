@@ -1,0 +1,14 @@
+.bg-color-header{
+    background: rgba(41, 74, 88, 1);
+
+}
+
+/* header 1st paragraph text */
+.text-white-p{
+    color: #FFFFFF;
+}
+/* header 2nd paragraph text */
+.text-lightgray-p{
+    color: rgba(224, 224, 224, 1);
+
+}
